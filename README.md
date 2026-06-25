@@ -1,54 +1,86 @@
-# ⚽ Kicko – Live Football Streaming App
+<div align="center">
 
-Kicko is a fast and lightweight app for watching **live football matches**, highlights, and real-time updates — all in one place.
+# ⚽ Kicko
 
----
+### Live Football Match Scoring & Team Management App
 
-## 🚀 Features
+<p align="center">
+  <b>Track matches. Manage teams. Analyze performance.</b>
+</p>
 
-* ⚡ Live football streaming
-* 📺 Match highlights
-* 📊 Real-time scores & updates
-* 🎯 Simple and clean interface
-* 📱 Lightweight & fast performance
+<br/>
 
----
+<div align="center">
 
-## 📸 Screenshots
+<a href="https://kicko-49a50.web.app/" target="_blank">
+  <img src="https://beeimg.com/images/a63205253373.png" width="260"/>
+</a>
 
-![Screenshot 1](screenshots/screen1.png)
-![Screenshot 2](screenshots/screen2.png)
-![Screenshot 3](screenshots/screen3.png)
+<a href="YOUR_APK_LINK" target="_blank">
+  <img src="https://beeimg.com/images/y01623680892.png" width="260"/>
+</a>
 
----
+</div>
 
-## 📥 Download App
-
-👉 **[Download Kicko App](PASTE_YOUR_DOWNLOAD_LINK_HERE)**
-
-> Click the link above to download and install the latest version of Kicko.
+</div>
 
 ---
 
-## 🛠 Installation Guide
+## 🚀 About Kicko
 
-1. Download the APK file
-2. Open the file on your Android device
-3. Allow **"Install from unknown sources"** if prompted
-4. Install and enjoy 🎉
+**Kicko** is a powerful and easy-to-use football match scoring app built for players, teams, and organizers.
 
----
+It allows you to **track live matches, manage teams & players, and analyze performance stats — all in real time.**
 
-## ⚠️ Disclaimer
-
-Kicko does not host any content. All streams are sourced from publicly available platforms.
+Whether you're playing casually or managing competitive matches, Kicko simplifies everything.
 
 ---
 
-## 📬 Contact
+## ✨ Features
 
-For support or feedback, feel free to reach out.
+- ⚽ **Live Match Scoring**
+  - Track goals, assists, and match events in real-time
+
+- 👥 **Team Management**
+  - Create and manage multiple teams effortlessly
+
+- 🧍 **Player Profiles**
+  - Add players and maintain individual stats
+
+- 📊 **Performance Tracking**
+  - Analyze player and team performance over time
+
+- ⚡ **Fast & Smooth UI**
+  - Built with Flutter for a seamless experience
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+## 📱 Tech Stack
+
+- 💙 **Flutter** — Cross-platform UI framework  
+- ⚡ **Dart** — Fast and expressive language  
+- ☁️ **Firebase** — Hosting & backend services  
+
+---
+
+## 🌐 Live Preview
+
+👉 https://kicko-49a50.web.app/
+
+---
+
+## 📥 Download
+
+> APK download coming soon  
+(You can host it via GitHub Releases for direct download)
+
+---
+
+<div align="center">
+
+### ⚡ Kicko made by Parjanya  
+<a href="https://github.com/your-github-username">
+  <img src="https://img.shields.io/badge/GitHub_Profile-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
