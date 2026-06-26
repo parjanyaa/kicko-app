@@ -70,6 +70,6 @@ Whether you're playing casually or managing competitive matches, Kicko simplifie
 
 <div align="center">
 
-### ⚡ Kicko - made by Parjanya
+### - Parjanya
 
 </div>
