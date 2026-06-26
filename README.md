@@ -58,29 +58,18 @@ Whether you're playing casually or managing competitive matches, Kicko simplifie
 ## 📱 Tech Stack
 
 - 💙 **Flutter** — Cross-platform UI framework  
-- ⚡ **Dart** — Fast and expressive language  
 - ☁️ **Firebase** — Hosting & backend services  
 
 ---
 
-## 🌐 Live Preview
+## 🌐 Webpage
 
 👉 https://kicko-49a50.web.app/
 
 ---
 
-## 📥 Download
-
-> APK download coming soon  
-(You can host it via GitHub Releases for direct download)
-
----
-
 <div align="center">
 
-### ⚡ Kicko made by Parjanya  
-<a href="https://github.com/your-github-username">
-  <img src="https://img.shields.io/badge/GitHub_Profile-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### ⚡ Kicko - made by Parjanya
 
 </div>
